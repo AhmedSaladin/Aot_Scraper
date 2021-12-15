@@ -1,8 +1,8 @@
 {
-  "name": "scrap",
+  "name": "aot_scraper",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "src/app.ts",
   "scripts": {
     "dev": "nodemon src/app.ts",
     "ts:build": "rm -rf ./dist && tsc",
