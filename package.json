@@ -1,5 +1,5 @@
 {
-  "name": "aot_scraper",
+  "name": "aot_scrapper",
   "version": "1.0.0",
   "description": "",
   "main": "src/app.ts",
